@@ -1,0 +1,37 @@
+{
+    "actors" : [
+        {
+          "uuid" : "AC76485E-DD85-427E-BB82-538340548FEC",
+          "full_name" : "Abbi Jacobson",
+          "agent_phone_number" : "123-456-8991",
+          "agent_email_address" : "abbi@jacobson.com",
+          "photo_url" : "https://upload.wikimedia.org/wikipedia/commons/7/76/Abbi_Jacobson_at_2015_PaleyFest.jpg",
+          "known_for" : "Broad City",
+        },
+        {
+          "uuid" : "8437BC3F-F255-495E-9317-0EFAAE03B5AA",
+          "full_name" : "Nathan Fielder",
+          "agent_phone_number" : "198-396-3300",
+          "agent_email_address" : "nathan@fielder.com",
+          "photo_url" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Nathan_Fielder.jpg",
+          "known_for" : "Nathan For You",
+        },
+        {
+          "uuid" : "054E8CF2-1CF2-4CF2-B199-D6F6EF5C9D77",
+          "full_name" : "Hannibal Buress",
+          "agent_phone_number" : "871-329-3471",
+          "agent_email_address" : "hannibal@buress.com",
+          "photo_url" : "https://upload.wikimedia.org/wikipedia/commons/b/be/Nathan_Fielder.jpg",
+          "known_for" : "The Eric Andre Show",
+        },
+        {
+          "uuid" : "25EB1913-896C-4024-8DE9-CE0897AF5E38",
+          "full_name" : "Cecily Strong",
+          "agent_phone_number" : "762-999-8287",
+          "agent_email_address" : "cecily@strong.com",
+          "known_for" : "Saturday Night Live",
+        },
+        {
+          "uuid" : "5B2573D8-27E6-4ABA-AD8B-B515ED75D080"
+    ]
+}
